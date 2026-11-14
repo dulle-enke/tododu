@@ -1,6 +1,6 @@
 {
   "name": "Daymark \u2014 Personal Task Manager",
-  "short_name": "Daymark",
+  "short_name": "ToDoDu",
   "description": "A focused, private task manager for your day and projects.",
   "start_url": "./index.html",
   "scope": "./",
